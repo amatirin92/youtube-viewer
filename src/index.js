@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom';
 import YTSearch from 'youtube-api-search';
 import SearchBar from './components/search-bar';
 import VideoList from './components/video-list';
-
-<'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css'>
 const API_KEY = 'AIzaSyD9Vabzi6sX2acmsWIN7XdKDx_if6LAvOI';
 
 
